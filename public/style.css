@@ -1,0 +1,23 @@
+/*body*/
+
+body{
+  margin: 0;
+  height: 1080px;
+  width: 2300px;
+}
+
+
+
+/*logo*/
+
+header > svg {
+  position: absolute;
+  left: 100px;
+  top: 100px;
+}
+
+/*navigation*/
+
+nav > a {
+  text-decoration: none;
+}
